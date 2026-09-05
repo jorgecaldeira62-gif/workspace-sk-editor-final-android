@@ -1,0 +1,2 @@
+rootProject.name = 'workspaceskeditorfinal'
+include ':app'
